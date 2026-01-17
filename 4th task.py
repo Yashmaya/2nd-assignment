@@ -5,8 +5,8 @@ sum = first_num + second_num + third_number
 product = first_num * second_num * third_number
 average = sum / 3
 print("sum is:" , sum)
-print("product is", 'product')
-print("average is", 'average')
+print("product is", product)
+print("average is", average)
 
 
 
